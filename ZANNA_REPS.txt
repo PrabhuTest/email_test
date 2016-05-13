@@ -1,4 +1,3 @@
-START:ZANNA_REPS AUTHOR:ECC0458  EMAIL:PMOLINEUX@HOTMAIL.COM
 *&---------------------------------------------------------------------*
 *& Report  ZANNA
 *&
@@ -17,4 +16,3 @@ loop at lt_ZAQCUSTOMING_LOG into ls_ZAQCUSTOMING_LOG.
 endloop.
 
 COMMIT WORK.
-FINISH:ZANNA                                                                                                         REPS
