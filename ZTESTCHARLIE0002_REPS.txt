@@ -1,4 +1,3 @@
-START:ZTESTCHARLIE0002_REPS AUTHOR:ECC0458  EMAIL:PMOLINEUX@HOTMAIL.COM
 START: ZTESTCHARLIE                                                                                                  REPS
 *&---------------------------------------------------------------------*
 *& Report  ZTESTCHARLIE
@@ -13,4 +12,3 @@ write: 'hello world'.
 write: 'goodbye'.
 write: 'whats news'. "change
 write: 'todaay'.
-FINISH:ZTESTCHARLIE0002                                                                                              REPS
