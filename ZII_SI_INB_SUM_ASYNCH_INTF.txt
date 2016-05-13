@@ -1,4 +1,3 @@
-START:ZII_SI_INB_SUM_ASYNCH_INTF AUTHOR:ECC0458  EMAIL:PMOLINEUX@HOTMAIL.COM
 *"* components of interface ZII_SI_INB_SUM_ASYNCH
 interface ZII_SI_INB_SUM_ASYNCH
   public .
@@ -8,4 +7,3 @@ interface ZII_SI_INB_SUM_ASYNCH
     importing
       !INPUT type ZMT_SUM_REQUEST .
 endinterface.
-FINISH:ZII_SI_INB_SUM_ASYNCH                                                                                         INTF
