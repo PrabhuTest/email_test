@@ -1,4 +1,3 @@
-START:ZCA_OBJTYPES_REPS AUTHOR:ECC0458  EMAIL:PMOLINEUX@HOTMAIL.COM
 *&---------------------------------------------------------------------*
 *& Report  ZCA_OBJTYPES
 *&
@@ -29,4 +28,3 @@ CALL FUNCTION 'TRINT_OBJECT_TABLE'
 loop at it_out ASSIGNING <p>.
   write:/ <p>-pgmid, <p>-object, <p>-text.
 endloop.
-FINISH:ZCA_OBJTYPES                                                                                                  REPS
