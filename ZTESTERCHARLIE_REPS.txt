@@ -1,4 +1,3 @@
-START:ZTESTERCHARLIE_REPS AUTHOR:ECC0458  EMAIL:PMOLINEUX@HOTMAIL.COM
 *&---------------------------------------------------------------------*
 *& Report  ZTESTERCHARLIE
 *&
@@ -12,4 +11,3 @@ REPORT  ZTESTERCHARLIE.
 write 'hi charle'.
 write 'hi charlie'.
 write 'hi anna'.
-FINISH:ZTESTERCHARLIE                                                                                                REPS
