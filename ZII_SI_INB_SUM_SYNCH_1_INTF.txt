@@ -1,4 +1,3 @@
-START:ZII_SI_INB_SUM_SYNCH_1_INTF AUTHOR:ECC0458  EMAIL:PMOLINEUX@HOTMAIL.COM
 *"* components of interface ZII_SI_INB_SUM_SYNCH_1
 interface ZII_SI_INB_SUM_SYNCH_1
   public .
@@ -10,4 +9,3 @@ interface ZII_SI_INB_SUM_SYNCH_1
     exporting
       !OUTPUT type ZMT_SUM_RESPONSE .
 endinterface.
-FINISH:ZII_SI_INB_SUM_SYNCH_1                                                                                        INTF
