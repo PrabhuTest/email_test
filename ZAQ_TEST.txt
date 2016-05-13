@@ -1,5 +1,0 @@
-START:ZAQ_TEST                      HELLOWORLD_METH AUTHOR:ECC0458  EMAIL:PMOLINEUX@HOTMAIL.COM
-method HELLOWORLD.
-  WRITE: 'Hello world'.
-endmethod.
-FINISH:ZAQ_TEST                      HELLOWORLD                                                                      METH
