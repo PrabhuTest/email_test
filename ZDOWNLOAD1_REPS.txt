@@ -1,4 +1,3 @@
-START:ZDOWNLOAD1_REPS AUTHOR:ECC0458  EMAIL:PMOLINEUX@HOTMAIL.COM
 *&---------------------------------------------------------------------*
 *& Report  ZDOWNLOAD1
 *&
@@ -10,4 +9,3 @@ START:ZDOWNLOAD1_REPS AUTHOR:ECC0458  EMAIL:PMOLINEUX@HOTMAIL.COM
 REPORT  ZDOWNLOAD1.
 write: 'active'.
 write: 'just saved'.
-FINISH:ZDOWNLOAD1                                                                                                    REPS
